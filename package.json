@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/CrashedBboy/hierarchical-3dtiles-builder/issues"
   },
-  "homepage": "https://github.com/CrashedBboy/hierarchical-3dtiles-builder#readme"
+  "homepage": "https://github.com/CrashedBboy/hierarchical-3dtiles-builder#readme",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
 }
