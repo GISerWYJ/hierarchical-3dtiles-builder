@@ -1,0 +1,31 @@
+{
+    "hierarchyFile": "path/to/your/hierarchyfile.json",
+    "transform": [
+        1, 0, 0, 0,
+        0, -1, 0, 0,
+        0, 0, -1, 0,
+        0, 0, 0, 1
+    ],
+    "levels": [
+        {
+            "level": 0,
+            "geometricError": 8,
+            "externalChildSet": false
+        },
+        {
+            "level": 1,
+            "geometricError": 4,
+            "externalChildSet": false
+        },
+        {
+            "level": 2,
+            "geometricError": 2,
+            "externalChildSet": true
+        },
+        {
+            "level": 3,
+            "geometricError": 1,
+            "externalChildSet": false
+        },
+    ]
+}

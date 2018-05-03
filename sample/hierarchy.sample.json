@@ -1,0 +1,62 @@
+{
+    "basePath": "base/path/to/your/models",
+    "models": [
+      {
+        "level": 0,
+        "filename": "tile_0_0_0_tex.obj",
+        "children": [
+          {
+            "level": 1,
+            "filename": "tile_1_0_0_tex.obj",
+            "children": [
+              {
+                "level": 2,
+                "filename": "tile_2_0_0_tex.obj",
+                "children": []
+              },
+              {
+                "level": 2,
+                "filename": "tile_2_0_64_tex.obj",
+                "children": []
+              },
+              {
+                "level": 2,
+                "filename": "tile_2_64_0_tex.obj",
+                "children": []
+              },
+              {
+                "level": 2,
+                "filename": "tile_2_64_64_tex.obj",
+                "children": []
+              }
+            ]
+          },
+          {
+            "level": 1,
+            "filename": "tile_1_128_0_tex.obj",
+            "children": [
+              {
+                "level": 2,
+                "filename": "tile_2_128_0_tex.obj",
+                "children": []
+              },
+              {
+                "level": 2,
+                "filename": "tile_2_128_64_tex.obj",
+                "children": []
+              },
+              {
+                "level": 2,
+                "filename": "tile_2_192_0_tex.obj",
+                "children": []
+              },
+              {
+                "level": 2,
+                "filename": "tile_2_192_64_tex.obj",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+   
