@@ -1,0 +1,24 @@
+{
+  "name": "hierarchical-3dtiles-builder",
+  "version": "1.0.0",
+  "description": "Tool for building hierarchical 3D tiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrashedBboy/hierarchical-3dtiles-builder.git"
+  },
+  "keywords": [
+    "cesium",
+    "3d-tiles",
+    "obj"
+  ],
+  "author": "CrashedBboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrashedBboy/hierarchical-3dtiles-builder/issues"
+  },
+  "homepage": "https://github.com/CrashedBboy/hierarchical-3dtiles-builder#readme"
+}
